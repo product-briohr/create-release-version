@@ -1,0 +1,38 @@
+{
+  "project": {
+    "key": "B2",
+    "id": 10013,
+    "name": "Brio DEV",
+    "cloudId": "e38dd556-d5ba-4444-8e93-93420ba8123c",
+    "projectAri": "ari:cloud:jira:e38dd556-d5ba-4444-8e93-93420ba8123c:project/10013",
+    "url": "https://briohr.atlassian.net",
+    "graphqlPqHash": "1770d793cb1ed228281f0e0b230266b11e72ff6b1c4dc442313198991e2483ae"
+  },
+  "releases": {
+    "web": [
+      { "name": "1.301.0",       "startDate": "2026-05-07", "releaseDate": "2026-05-14" },
+      { "name": "1.302.0",       "startDate": "2026-05-14", "releaseDate": "2026-05-21" },
+      { "name": "1.303.0",       "startDate": "2026-05-21", "releaseDate": "2026-05-28" },
+      { "name": "1.304.0",       "startDate": "2026-05-28", "releaseDate": "2026-06-04" },
+      { "name": "1.305.0",       "startDate": "2026-06-04", "releaseDate": "2026-06-11" },
+      { "name": "1.306.0",       "startDate": "2026-06-11", "releaseDate": "2026-06-18" },
+      { "name": "1.307.0",       "startDate": "2026-06-18", "releaseDate": "2026-06-25" },
+      { "name": "1.308.0",       "startDate": "2026-06-25", "releaseDate": "2026-07-02" },
+      { "name": "1.309.0",       "startDate": "2026-07-02", "releaseDate": "2026-07-09" },
+      { "name": "1.310.0",       "startDate": "2026-07-09", "releaseDate": "2026-07-16" },
+      { "name": "1.311.0",       "startDate": "2026-07-16", "releaseDate": "2026-07-23" }
+    ],
+    "mobile": [
+      { "name": "2.0.6 RN Mobile",  "startDate": "2026-04-23", "releaseDate": "2026-04-30" },
+      { "name": "2.0.7 RN Mobile",  "startDate": "2026-04-30", "releaseDate": "2026-05-07" },
+      { "name": "2.0.8 RN Mobile",  "startDate": "2026-05-07", "releaseDate": "2026-05-14" },
+      { "name": "2.0.9 RN Mobile",  "startDate": "2026-05-14", "releaseDate": "2026-05-21" },
+      { "name": "2.0.10 RN Mobile", "startDate": "2026-05-28", "releaseDate": "2026-06-04" },
+      { "name": "2.0.11 RN Mobile", "startDate": "2026-06-04", "releaseDate": "2026-06-11" },
+      { "name": "2.0.12 RN Mobile", "startDate": "2026-06-11", "releaseDate": "2026-06-18" },
+      { "name": "2.0.13 RN Mobile", "startDate": "2026-06-18", "releaseDate": "2026-06-25" },
+      { "name": "2.0.14 RN Mobile", "startDate": "2026-06-25", "releaseDate": "2026-07-02" },
+      { "name": "2.0.15 RN Mobile", "startDate": "2026-07-02", "releaseDate": "2026-07-09" }
+    ]
+  }
+}
